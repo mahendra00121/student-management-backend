@@ -108,7 +108,6 @@ D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\b
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\bin\Debug\net9.0\System.ClientModel.dll
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\bin\Debug\net9.0\System.Memory.Data.dll
@@ -156,3 +155,5 @@ D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\o
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\obj\Debug\net9.0\StudentAPI.pdb
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\obj\Debug\net9.0\StudentAPI.genruntimeconfig.cache
 D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\obj\Debug\net9.0\ref\StudentAPI.dll
+D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\obj\Debug\net9.0\StudentAPI.sourcelink.json
+D:\Project_Submission\Source_Code\Student Management System\backend\StudentAPI\obj\Debug\net9.0\swae.build.ex.cache
